@@ -1,3 +1,3 @@
 # WAD
-Repository to a Webapllication, that is made by the direction of an course from HTW-Berlin
+Repository for a Web Application, that is made with the direction of a course from HTW-Berlin
 # Shium Rahman, 579871
